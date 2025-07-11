@@ -109,7 +109,4 @@ Want to contribute or fine-tune this further? Pull requests are welcome!
 🌍 Karachi, Pakistan
 
 ```
-<img width="1741" height="622" alt="Screenshot 2025-07-11 181521" src="https://github.com/user-attachments/assets/52e1ac38-4e26-4ff9-90fe-946fb96b6ca6" />
-<img width="1732" height="632" alt="Screenshot 2025-07-11 181420" src="https://github.com/user-attachments/assets/eff0e728-b87d-4d52-9ec2-941e11e8261e" />
-<img width="1735" height="618" alt="Screenshot 2025-07-11 181409" src="https://github.com/user-attachments/assets/b07b2b05-8be8-4591-bd28-d3e8fa1874d4" />
 
